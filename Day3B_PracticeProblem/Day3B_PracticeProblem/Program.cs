@@ -1,6 +1,4 @@
-﻿using static Day3B_PracticeProblem.ConstructorTypes;
-
-namespace Day3B_PracticeProblem
+﻿namespace Day3B_PracticeProblem
 {
     class Program
     {
@@ -12,3 +10,4 @@ namespace Day3B_PracticeProblem
         }
     }
 }
+
